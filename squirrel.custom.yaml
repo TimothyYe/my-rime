@@ -1,0 +1,12 @@
+patch:
+  show_notifications_via_notification_center: true
+  us_keyboard_layout: true                               # 美式键盘布局
+  show_notifications_when: appropriate                   # 状态通知，适当，也可设为全开（always）全关（never）
+
+  style:
+    color_scheme: psionics
+    horizontal: true
+    border_height: 6
+    border_width: 6
+    corner_radius: 6
+    font_point: 18
